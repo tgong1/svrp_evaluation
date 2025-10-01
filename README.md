@@ -1,2 +1,2 @@
 # Evaluation of structrual variation imputation reference panels
-Evaluation of structural variation phasing and imputation performance.
+Code accompanying the development of Han-SV panel for structural variation (SV) phasing and imputation performance evaluation.
