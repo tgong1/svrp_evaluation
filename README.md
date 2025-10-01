@@ -1,2 +1,2 @@
-# svrp_evaluation
-Evaluation of structural variation phsing and imputation performance
+# Evaluation of structrual variation imputation reference panels
+Evaluation of structural variation phasing and imputation performance.
